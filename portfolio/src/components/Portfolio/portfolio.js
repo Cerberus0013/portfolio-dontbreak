@@ -8,15 +8,24 @@ const portfolio = [
     link: "deployed",
     github: "linktogithub",
     image: "./assets/coverimg/download.jpg",
-    description: "jksdsjhsdhjsdjh"
+    description: "jksdsjhsdhjsdjh",
   },
   {
     id: 2,
     title: "njbej",
-    link: "deployed",
+    link: "deplo",
     github: "linktogithub",
     image: "./assets/planner/Screen Shot 2021-07-02 at 11.33.40 AM.png",
-    description: "vdvwwevewbwebwbwrb"
+    description: "vdvwwevewbwebwbwrb",
+  },
+  {
+    id: 3,
+    title: "Trade Secret",
+    link: "https://shawnlittrel-trade-secret.herokuapp.com/",
+    github: "https://github.com/shawnlittrel/CRM-Tools",
+    image:"./assets/crm/Screen Shot 2021-07-07 at 5.21.42 PM.png",
+    description:
+      "This a CRM designed to help business manage their operations from 1 app",
   },
 ];
 
